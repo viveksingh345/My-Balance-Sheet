@@ -1,0 +1,2 @@
+the program consist of four entity.
+And try to make the program less complex as we can make:)
