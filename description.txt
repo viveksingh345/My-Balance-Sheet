@@ -1,2 +1,3 @@
-the program consist of four entity.
-And try to make the program less complex as we can make:)
+#the program consist of four entity.
+#And try to make the program less complex as we can make:)
+The program consist of a Database which usually stores 
